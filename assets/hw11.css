@@ -1,0 +1,39 @@
+body{
+background-color: black;
+font-family: Helvetica;
+color: white;
+text-align: center;
+}
+
+#container {
+  margin: 0 auto;
+  width: 940px;
+  }
+
+img{
+padding:5px;
+border:2px solid white;
+background-color:black;
+}
+
+Div.qr{
+padding:-10px;
+}
+
+a{color:pink;
+}
+
+Div.favSiteDiv{
+}
+
+.tagcloud{
+}
+
+.tagcloudtitle{
+}
+
+table,th,td{
+border: 1px solid black;
+color: white;
+background-color:blue;
+}
